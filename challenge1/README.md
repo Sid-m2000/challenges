@@ -45,7 +45,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Submission by Sid-m2000
 Screenshots:
-Desktop-View : ![Desktop-View of Website](./images/desktop.jpg)
-Desktop-View (Hovering over share icon) : ![Desktop-View of Website on hovering over share icon](./images/desktop-hovering.jpg)
-Mobile-View : ![Mobile-View of Website](./images/mobile.jpg)
-Mobile-View (Hovering over share icon) : ![Mobile-View of Website on hovering over share icon](./images/mobile-hover.jpg)
+Desktop-View : ![Desktop-View of Website](./images/desktop.JPG)
+Desktop-View (Hovering over share icon) : ![Desktop-View of Website on hovering over share icon](./images/desktop-hovering.JPG)
+Mobile-View : ![Mobile-View of Website](./images/mobile.JPG)
+Mobile-View (Hovering over share icon) : ![Mobile-View of Website on hovering over share icon](./images/mobile-hover.JPG)
