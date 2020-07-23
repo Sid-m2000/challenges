@@ -45,7 +45,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Submission by Sid-m2000
 Screenshots:
-Desktop-View : ![](./images/desktop.jpg)
-Desktop-View (Hovering over share icon) : ![](./images/desktop-hovering.jpg)
-Mobile-View : ![](./images/mobile.jpg)
-Mobile-View (Hovering over share icon) : ![](./images/mobile-hover.jpg)
+Desktop-View : (./images/desktop.jpg)
+Desktop-View (Hovering over share icon) : (./images/desktop-hovering.jpg)
+Mobile-View : (./images/mobile.jpg)
+Mobile-View (Hovering over share icon) : (./images/mobile-hover.jpg)
