@@ -38,3 +38,10 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
 6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
 
+## Submission by Sid-m2000:
+Desktop View: ![Desktop-View](./images/Desktop.png)
+Mobile View: ![Mobile-active-mode](./images/Mobile-active.png)
+
+
+
+Sir, I'm unable to make hamburger menu in mobile site as I'm still learning JavaScipt and also I'm having problem with the dealing with design SVGs.
